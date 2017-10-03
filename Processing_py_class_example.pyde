@@ -1,5 +1,5 @@
 # Manually import code from other tabs
-from Eye import Eye
+from Eye import *
 
 def setup():
     size(640, 480, P2D)
